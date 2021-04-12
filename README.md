@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IronVader6
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on a discord bot
-- 📫 How to reach me don't I already found someone too
+- 👀 I’m interested: in coding
+- 🌱 I’m currently learning: coding
+- 💞️ I’m looking to collaborate: on a discord bot
+- 📫 How to reach me: don't I already found someone too
 
